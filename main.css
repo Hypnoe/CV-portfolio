@@ -1,0 +1,97 @@
+ body { 
+     font-family: 'Times New Roman', Times, serif; 
+     
+ }  
+ .rubrik {
+    
+    display: flex; 
+    justify-content: center; 
+	line-height: 300px; 
+	height: 150px; 
+    
+
+}
+ .text { 
+    display: flex; 
+    justify-content: center; 
+	margin-top: 50px;
+    font-size: 150%; 
+   
+    
+   }  
+    .erfarenheter{  
+    margin-top: 20px;
+    margin-left: 25%; 
+    margin-right: 50%; 
+    font-size: large;
+    
+
+    
+    
+    }  
+    #sizeExp{ 
+        font-size: x-large; 
+        
+
+        
+    }
+    .personligt{  
+        margin-top: 20px;
+        margin-left: 25%; 
+        margin-right: 60%; 
+        font-size: large; 
+        
+        
+        }  
+        #sizeInfo{ 
+            font-size: x-large;
+        }  
+        .meriter{  
+            margin-top: 10px;
+            margin-left: 25%; 
+            margin-right: 50%; 
+            font-size: large; 
+           
+            
+            }  
+            #sizeMeriter{ 
+                font-size: x-large;
+            }    
+        .bild{  
+            display: flex;
+            position: absolute; 
+            right: 35%; 
+            margin-top: 280px;  
+            
+            
+        }
+   
+
+        .icons{ 
+            display: inline-flex; 
+            
+             margin-top: 900px; 
+             margin-left: 40%; 
+             margin-right: 50%; 
+            font-size: 400%; 
+            justify-content: center;
+            flex-direction: row; 
+            
+            } 
+             #info{ 
+               margin-top: 12%;
+                margin-right: 80%;
+               font-size: large; 
+
+               
+             }
+              #mail{ 
+                display: flex;
+                position: absolute; 
+                right: 46%; 
+                margin-top: 870px; 
+                font-size: x-large;  
+                 
+              }
+   
+   
